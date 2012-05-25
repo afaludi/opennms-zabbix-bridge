@@ -1,0 +1,102 @@
+<content>
+  <data>
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.3.B1/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.3.B1/</relativePath>
+      <text>0.7.3.B1</text>
+      <leaf>false</leaf>
+      <lastModified>2011-08-19 14:35:43.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.5.B2/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.5.B2/</relativePath>
+      <text>0.7.5.B2</text>
+      <leaf>false</leaf>
+      <lastModified>2011-09-02 12:15:19.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/maven-metadata.xml.sha1</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/maven-metadata.xml.sha1</relativePath>
+      <text>maven-metadata.xml.sha1</text>
+      <leaf>true</leaf>
+      <lastModified>2011-09-16 12:01:42.0 BST</lastModified>
+      <sizeOnDisk>40</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.2.B1/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.2.B1/</relativePath>
+      <text>0.7.2.B1</text>
+      <leaf>false</leaf>
+      <lastModified>2011-08-12 13:09:16.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.4.B1/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.4.B1/</relativePath>
+      <text>0.7.4.B1</text>
+      <leaf>false</leaf>
+      <lastModified>2011-08-26 14:31:02.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/maven-metadata.xml.md5</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/maven-metadata.xml.md5</relativePath>
+      <text>maven-metadata.xml.md5</text>
+      <leaf>true</leaf>
+      <lastModified>2011-09-16 12:01:42.0 BST</lastModified>
+      <sizeOnDisk>32</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.8.1B2/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.8.1B2/</relativePath>
+      <text>0.8.1B2</text>
+      <leaf>false</leaf>
+      <lastModified>2011-09-09 17:38:15.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.8.1.B1/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.8.1.B1/</relativePath>
+      <text>0.8.1.B1</text>
+      <leaf>false</leaf>
+      <lastModified>2011-09-09 15:35:23.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/maven-metadata.xml</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/maven-metadata.xml</relativePath>
+      <text>maven-metadata.xml</text>
+      <leaf>true</leaf>
+      <lastModified>2011-09-16 12:01:42.0 BST</lastModified>
+      <sizeOnDisk>605</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.8.2.B1/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.8.2.B1/</relativePath>
+      <text>0.8.2.B1</text>
+      <leaf>false</leaf>
+      <lastModified>2011-09-16 12:01:42.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+    
+    <content-item>
+      <resourceURI>http://nexus.art:8081/nexus/service/local/repositories/releases/content/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.5.B1/</resourceURI>
+      <relativePath>/uk/gov/fsa/rsd/scenariomanager/ScenarioManager-webapp/0.7.5.B1/</relativePath>
+      <text>0.7.5.B1</text>
+      <leaf>false</leaf>
+      <lastModified>2011-09-02 11:53:55.0 BST</lastModified>
+      <sizeOnDisk>-1</sizeOnDisk>
+    </content-item>
+  </data>
+</content>

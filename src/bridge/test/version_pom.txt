@@ -1,0 +1,5 @@
+<groupId>uk.gov.fsa.rsd.scenariomanager</groupId>   lower
+<artifactId>ScenarioManager-webapp</artifactId>     case_sensitive
+<name>Scenario Manager</name>                       lower no spaces
+<version>1.0-SNAPSHOT</version>                     
+<version>0.8.2.B1</version>  
